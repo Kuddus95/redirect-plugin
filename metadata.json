@@ -1,0 +1,11 @@
+{
+	"name": "Redirect Plugin",
+	"uri": "https://github.com/Kuddus95/redirect-plugin",
+	"description": "This plugin redirects all deleted questions.",
+	"version": "1",
+	"date": "2020-04-11",
+	"author": "Aman", 
+	"author_uri": "https://github.com/kuddus95",
+	"license": "GPLv2",
+	"load_order": "after_db_init"
+}
